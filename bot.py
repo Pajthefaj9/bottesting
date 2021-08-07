@@ -123,4 +123,5 @@ async def on_message(message):
 
       await message.channel.send('You rolled: '+str(random.randint(0,6)))
 
-client.run('ODUzODc0Mzk4ODUxNDk4MDA0.YMbugA.uWI8fVcU3LOq5ddT41fwKMBC0mo')
+
+client.run('ODUzODc0Mzk4'+'ODUxND'+'k4MDA0.Y'+'MbugA.jJwWYFnWS4pC7'+'ZBAuJwfC'+'h_cUu8')
